@@ -47,6 +47,11 @@ Route::get('/profil', function () {
     return view('home/profil');
 });
 
+Route::get('/tes', function () {
+    return view('home/tes');
+});
+
+
 
 
 /*

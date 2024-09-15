@@ -7,7 +7,7 @@
     <title>Monitoring PKL</title>
     <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet" />
-    <link href="{{ asset('css/main.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/main.css') }}" rel="stylesheet" />
 </head>
 
 <body>
