@@ -24,3 +24,7 @@ Route::get('/login', function () {
 Route::get('/profiledosen', function () {
     return view('profiledosen');
 });
+
+Route::get('/profileMahasiswa', function () {
+    return view('profileMahasiswa');
+});
